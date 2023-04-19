@@ -1,0 +1,6 @@
+name: CoinFlip
+version: '${project.version}'
+main: io.tomko.coinflip.CoinFlip
+api-version: 1.19
+depend: [CMILib,CMI,PaperBird]
+authors: [ iTomKo ]
